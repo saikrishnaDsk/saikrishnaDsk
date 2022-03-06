@@ -11,6 +11,6 @@ Here is a short intro about myself:
 - 🔭 I’m currently working on MERN stack projects.
 - 🌱 I’m currently learning Data Structures and Algorithms using Java.
 - 💬 Ask me about Java, React, Node.Js, Salesforce Lightning Aura, and LWC. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saikrishna-dsk/) [Instagram](https://www.instagram.com/saikrishna_dsk/) 
+- 📫 How to reach me: <img src = "ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/saikrishna-dsk/) | | [Instagram](https://www.instagram.com/saikrishna_dsk/) | | []()
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play paino 🎹, I love to sketch still life, active travel, food, adventure check-list to accomplish 🪂🌉
