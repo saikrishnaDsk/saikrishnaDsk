@@ -13,8 +13,7 @@ Here is a short intro about myself:
 - 💬 Ask me about Java, React, Node.Js, Salesforce Lightning Aura, and LWC. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play paino 🎹, I love to sketch still life, active travel, food, adventure check-list to accomplish 🪂🌉
-- 📫 How to reach me:
-<a href="https://www.instagram.com/saikrishna_dsk/">
+- 📫 How to reach me: <a href="https://www.instagram.com/saikrishna_dsk/">
   <img align="left" alt="Saikrishna's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/DSkrishnaa">
@@ -26,3 +25,4 @@ Here is a short intro about myself:
 <a href="https://open.spotify.com/user/4iiqpog2omav06lslk7ig2jyn?si=gVUHO9bQQV2f2KsHkYmnJw">
   <img align="left" alt="Saikrishna's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
