@@ -29,7 +29,7 @@ Here is a short intro about myself:
 <br /> <br />
 
 ## My Certifications:
-<br />
+
 <a href="#">
   <img align="left" alt="PD1-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
 </a>
@@ -41,9 +41,8 @@ Here is a short intro about myself:
 </a>
 <br /> <br />
 
-<br />
-### 📫 How to reach me:
-<br />
+## 📫 How to reach me:
+
 <a href="https://www.instagram.com/saikrishna_dsk/">
   <img align="left" alt="Saikrishna's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
