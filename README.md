@@ -27,23 +27,6 @@ Here is a short intro about myself:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br /> <br />
-
-<section>
-### **My Certifications:**
-
-<a href="#">
-  <img align="left" alt="PD1-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Js-dev-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_High-Res.png" />
-</a>
-<a href="#">
-  <img align="left" alt="admin-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png"/>
-</a>
-<br />
-</section>
-  
-<section>
 ### 📫 **How to reach me:**
 
 <a href="https://www.instagram.com/saikrishna_dsk/">
@@ -60,5 +43,18 @@ Here is a short intro about myself:
 </a>
 <br />
 
-</section>
+
+### **My Certifications:**
+
+<a href="#">
+  <img align="left" alt="PD1-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
+</a>
+<a href="#">
+  <img align="left" alt="Js-dev-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_High-Res.png" />
+</a>
+<a href="#">
+  <img align="left" alt="admin-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png"/>
+</a>
+<br />
+
 
