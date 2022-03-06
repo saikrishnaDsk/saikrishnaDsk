@@ -59,10 +59,10 @@ Here is a short intro about myself:
 <a href="https://open.spotify.com/user/4iiqpog2omav06lslk7ig2jyn?si=gVUHO9bQQV2f2KsHkYmnJw">
   <img align="left" alt="Saikrishna's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<br />
+<br /><br /><br /><br />
 
 **Github Stats:**
-[![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnaDsk)](https://github.com/saikrishnaDsk/github-readme-stats)
+[![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnaDsk&show_icons=true&theme=radical)](https://github.com/saikrishnaDsk/github-readme-stats)
 
 
 
