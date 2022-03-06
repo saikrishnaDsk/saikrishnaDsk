@@ -43,7 +43,6 @@ Here is a short intro about myself:
 <br />
 <br />
 <br />
-<br />
 
 ### 📫 **How to reach me:**
 
