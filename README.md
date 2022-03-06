@@ -14,6 +14,19 @@ Here is a short intro about myself:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play paino 🎹, I love to sketch still life, active travel, food, adventure check-list to accomplish 🪂🌉
 
+### **My Certifications:**
+
+<a href="#">
+  <img align="left" alt="PD1-certificate" width="80px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
+</a>
+<a href="#">
+  <img align="left" alt="Js-dev-certificate" width="80px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_High-Res.png" />
+</a>
+<a href="#">
+  <img align="left" alt="admin-certificate" width="80px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png"/>
+</a>
+<br />
+
 ### **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,17 +57,5 @@ Here is a short intro about myself:
 <br />
 
 
-### **My Certifications:**
-
-<a href="#">
-  <img align="left" alt="PD1-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Js-dev-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_High-Res.png" />
-</a>
-<a href="#">
-  <img align="left" alt="admin-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png"/>
-</a>
-<br />
 
 
