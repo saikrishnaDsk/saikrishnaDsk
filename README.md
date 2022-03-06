@@ -40,20 +40,20 @@ Here is a short intro about myself:
   <img align="left" alt="admin-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png" />
 </a>
 <br/><br/>
-<br/><br/>
+
 
 
 ## 📫 How to reach me:
-<br/><br/>
+<br/>
 <a href="https://www.instagram.com/saikrishna_dsk/">
-  <img align="left" alt="Saikrishna's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Saikrishna's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/DSkrishnaa">
-  <img align="left" alt="Saikrishna | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Saikrishna | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/saikrishna-dsk/">
-  <img align="left" alt="Saikrishna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Saikrishna's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/4iiqpog2omav06lslk7ig2jyn?si=gVUHO9bQQV2f2KsHkYmnJw">
-  <img align="left" alt="Saikrishna's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Saikrishna's Spotify" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
