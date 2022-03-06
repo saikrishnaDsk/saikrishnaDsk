@@ -61,7 +61,9 @@ Here is a short intro about myself:
 </a>
 <br /><br /><br /><br />
 
-**Github Stats:**<br /><br /><br />
+<a href="#">
+  <img align="left" alt="Saikrishna's Spotify" width="40px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a> <br /><br />
 [![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnaDsk&show_icons=true&theme=radical)](https://github.com/saikrishnaDsk/github-readme-stats)
 
 
