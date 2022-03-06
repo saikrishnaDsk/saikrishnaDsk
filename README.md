@@ -61,6 +61,8 @@ Here is a short intro about myself:
 </a>
 <br />
 
+**Github Stats:**
+[![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnaDsk)](https://github.com/saikrishnaDsk/github-readme-stats)
 
 
 
