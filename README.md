@@ -14,7 +14,7 @@ Here is a short intro about myself:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play paino 🎹, I love to sketch still life, active travel, food, adventure check-list to accomplish 🪂🌉
 
-## Languages and Tools:
+### **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -28,7 +28,7 @@ Here is a short intro about myself:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br /> <br />
 
-## My Certifications:
+### **My Certifications:**
 
 <a href="#">
   <img align="left" alt="PD1-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_High-Res.png" />
@@ -39,9 +39,9 @@ Here is a short intro about myself:
 <a href="#">
   <img align="left" alt="admin-certificate" width="100px" src="https://github.com/saikrishnaDsk/saikrishnaDsk/blob/main/SF-Certified_Administrator-768x753.png"/>
 </a>
-<br /> <br />
+<br />
 
-## 📫 How to reach me:
+### 📫 **How to reach me:**
 
 <a href="https://www.instagram.com/saikrishna_dsk/">
   <img align="left" alt="Saikrishna's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -56,3 +56,5 @@ Here is a short intro about myself:
   <img align="left" alt="Saikrishna's Spotify" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br />
+
+
